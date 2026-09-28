@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/coilpath",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Coil HTML/Markdown path fragments safely for docs pipelines.",
+  "bin": {
+    "coilpath": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/coilpath.git"
+  },
+  "homepage": "https://theworker02.github.io/coilpath/",
+  "keywords": [
+    "coil",
+    "path",
+    "markup",
+    "cli",
+    "toolkit"
+  ]
+}
